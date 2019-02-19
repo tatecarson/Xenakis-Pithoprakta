@@ -1,3 +1,8 @@
+---
+title: Xenakis - Pithoprakta
+theme: sky
+---
+
 # Iannis Xenakis
 
 ## Pithoprakta (1957)
